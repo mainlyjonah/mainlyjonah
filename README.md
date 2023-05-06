@@ -16,4 +16,4 @@
 
 
 <h3 align="left">Owner of NRW Life</h3>
-<h5 align="left">zum Discord: <a href="https://discord.gg/nrw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QkCEazD2uq" height="30" width="40" /></a></h3>
+<h5 align="left">zum Discord: <a href="https://discord.gg/nrw" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/931580815631081524/1104405143295901736/nrw.png" alt="QkCEazD2uq" height="30" width="40" /></a></h3>
