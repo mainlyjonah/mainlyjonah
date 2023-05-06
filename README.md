@@ -17,6 +17,5 @@
 NRW Life ist ein FiveM Server der gerade in entwicklung steht.
 
 Wir Arbeiten stehts daran einen realistischen FiveM Server zu erstellen welcher in der schönen Hauptstadt Nordrheinwestfahlens spielt!
-
 Unsere Einsatzfahrzeuge sowie Banken etc, sind auf Düsseldorf angepasst, um den Realismus aus NRW näher zu kommen.
 <h5 align="left">zum Discord: <a href="https://discord.gg/nrw" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/931580815631081524/1104405143295901736/nrw.png" alt="QkCEazD2uq" height="40" width="40" /></a></h3>
